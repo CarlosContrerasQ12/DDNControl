@@ -47,6 +47,14 @@ INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /home/carlos/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx
 INPUT /home/carlos/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /home/carlos/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./report.aux
@@ -81,6 +89,7 @@ INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm
 INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
 INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
 INPUT /home/carlos/.miktex/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
@@ -106,6 +115,8 @@ INPUT /home/carlos/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm12
 INPUT /home/carlos/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
@@ -114,5 +125,9 @@ INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.p
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /home/carlos/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb

@@ -3,15 +3,23 @@
 \usepackage[margin=1in]{geometry} 
 \usepackage{amsmath,amsthm,amssymb}
 \usepackage{graphicx}
+\usepackage{xcolor}
 \date{}
 \begin{document}
 
 	\title{Finite differences Least Square Methods for HJB using NN} % replace with the problem you are writing up
 	\maketitle
 	\section*{05/15/2025}
+
+	\subsection*{Annotations}
+	\begin{itemize}
+		\item We are minimizing costs of the form $${\mathcal{I}}(u)={\mathcal{L}}(u;g)+{\mathcal{R}}(u)$$ where $$\mathcal{L}(u;g):=\int_{\partial\Omega}\left(u(x)-g(x)\right)^{2}d x$$ and $$R(u):=\int_{\Omega}\left({\widehat{H}}(x,D_{\delta}^{+}u(x),D_{\delta}^{-}u(x))\right)^{2}d x.$$
+		They affirm that \textcolor{red}{any global minimizer of this cost is a viscosity solution, and that any critical point is a local minimizer}. The second property is more intersting.
+		\item To which lipchitz continuos soluion converge a PINN?
+	\end{itemize}
+	\subsection{Questions}
 	\begin{itemize}
 		\item Do all equations of the form $$H(x,\nabla u^{\varepsilon}(x))-\varepsilon\Delta u^{\varepsilon}(x)=0$$ have smooth solutions? Why not just take a very small $\varepsilon$?
-		\item jij5151622+26
 	\end{itemize}
 
 \end{document}
