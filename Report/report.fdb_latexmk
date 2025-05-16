@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1747362966.50995 "/home/carlos/Documentos/DDNControl/Report/report.tex" "report.pdf" "report" 1747362966.6656 0
-  "/home/carlos/Documentos/DDNControl/Report/report.tex" 1747362966.35712 1164 fa91d30223e6cf262424bd89587e56bc ""
+["pdflatex"] 1747364875.34874 "/home/carlos/Documentos/DDNControl/Report/report.tex" "report.pdf" "report" 1747364875.55611 0
+  "/home/carlos/Documentos/DDNControl/Report/report.tex" 1747364875.01355 1158 95a214eef5ee86e7620a023e7e01b640 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -63,8 +63,8 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1745682233 323222 d8b8972250aad9c7fd4bb3e7ef07d09c ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1743480342 2663806 04024102523d5a1912112e184368b4ef ""
   "/usr/local/texlive/2025/texmf.cnf" 1743480331.38411 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "report.aux" 1747362966.63811 134 b08945584fa68fc55b690680820b3150 "pdflatex"
-  "report.tex" 1747362966.35712 1164 fa91d30223e6cf262424bd89587e56bc ""
+  "report.aux" 1747364875.51854 134 b08945584fa68fc55b690680820b3150 "pdflatex"
+  "report.tex" 1747364875.01355 1158 95a214eef5ee86e7620a023e7e01b640 ""
   (generated)
   "report.aux"
   "report.log"
